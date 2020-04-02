@@ -1,4 +1,7 @@
 # 포트폴리오 정리문서
+깃헙 Portpolio 저장소를 게임잡 이력서 링크거는곳에 올려야 한다
+그리고 이곳은 오로지 포트폴리오 문서용으로만 사용한다 
+README.md파일은 마크업 언어를 사용해야 하니 아래에 남겨놓은 
 마크업 에디터를 사용해서 편하고 이쁘게 문서작업하기
 https://pandao.github.io/editor.md/en.html
 
@@ -10,6 +13,7 @@ https://pandao.github.io/editor.md/en.html
 2. AAA
 3. BBB
 4. CCC
+
 포트폴리오 PDF 파일 : 블로그 주소
 동영상링크 :  유튜브 주소
 
@@ -21,6 +25,7 @@ https://pandao.github.io/editor.md/en.html
 2. AAA
 3. BBB
 4. CCC
+
 포트폴리오 PDF 파일 : 블로그 주소
 동영상링크 :  유튜브 주소
 
